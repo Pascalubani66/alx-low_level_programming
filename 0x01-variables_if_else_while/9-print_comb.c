@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: "print bunch of munbers"
+ * Description "print bunch of munbers"
  * Return: Always 0 (Success)
  */
 int main(void)
